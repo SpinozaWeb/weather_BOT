@@ -4,5 +4,5 @@
  - от @BotFather
  - 
 Ну а дальше по классике)
-  - clone https://github.com/SpinozaWeb/weather_bot
+  - git clone https://github.com/SpinozaWeb/weather_bot
   - pip install requirements.txt
